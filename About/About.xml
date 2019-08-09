@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+	<name>MSE - Prosthetic Combat</name>
+	<author>Oreno</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>&lt;b&gt;Not Just Another Combat Prostheses Expansion&lt;/b&gt;. An expansion of vanilla combat prosthetsis with exclusive weaponized prosthetic and MSE integration. It include ranged prosthesis that can really shoot. With PCF, it also can shot while your pawn use its gun.
+
+
+&lt;b&gt;&lt;size=18&gt;Features&lt;/size&gt;&lt;/b&gt;
+- Add new research projects.
+- About 10+ ranged prosthesis that can really shoot.
+- Support MSE part system feature. Waponized prosthesis can keep its child parts and ready for module.
+- Support MSE prosthesis adaptation system.
+- Support MSE implant system. You can also install implant on weaponized prosthesis part.
+- Weaponized prosthesis also can be found on trader and raider.
+- And many other features.
+
+
+&lt;b&gt;&lt;size=18&gt;Load Order&lt;/size&gt;&lt;/b&gt;
+Put this mod after PCF and MSE.
+</description>
+
+</ModMetaData>
